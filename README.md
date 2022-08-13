@@ -16,4 +16,6 @@ push origin -f
 
 **【Attention!!】** 此代码会强制覆盖当前分支，请注意备份
 > git push -u origin main -f  
-
+  
+  
+3. [git常见错误与操作](https://blog.csdn.net/qq_36571778/article/details/80944557)
